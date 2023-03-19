@@ -50,7 +50,7 @@ var I18nDict_eo map[uint16]string = map[uint16]string{
 	DelayModeSet_DelayAuto:              "Prokrasto aŭtomate agordita al: %d",
 	DelayModeSet_ThresholdAuto:          "Prokrasta sojlo aŭtomate agordita al: %d",
 	DelaySet:                            "Prokrasto fiksita",
-	DelaySetUnavailableUnderNoneMode:    "[prokrasto fiksita] ne disponeblas kun prokrasta reĝimo: neniu",
+	DelaySetUnavailableUnderNoneMode:    "[prokrasto fiksita] ne disponeblas kun prokrasta reĝimo: none",
 	DelayThreshold_OnlyDiscrete:         "Prokrastsojlo disponeblas nur kun prokrasta reĝimo: discrete",
 	DelayThreshold_Set:                  "Prokrasta sojlo agordita al: %d",
 	ERRORStr:                            "ERARO",
